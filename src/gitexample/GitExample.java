@@ -7,7 +7,7 @@ package gitexample;
 
 /**
  *
- * @author varun
+ * @author varun Reddy
  */
 public class GitExample {
 
